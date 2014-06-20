@@ -1,0 +1,42 @@
+body {
+	background: white;
+	font-family: cursive;
+}
+
+header {
+	background: #FFEFD5;
+	padding: 5px 5px 0px 5px;
+	margin 0;
+}
+header h1 {
+	color: #CD853F;
+	margin 0;
+}
+
+h1{
+	color: blue;
+}
+header nav ul li {
+	background: #ADFF2F;
+	display: inline-block;
+	list-style-type: : none;
+	padding: 10px 10px;
+}
+
+nav ul li a {
+color: Indigo;
+}
+
+.row{
+
+}
+.col{
+	background: Gold;
+	padding: 20px 150px 20px 150px;
+	margin: 1px 10px 10px 10px;
+	float: left;
+
+}
+footer{
+	clear: both;
+}
